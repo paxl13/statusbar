@@ -1,0 +1,30 @@
+{
+  "env": {
+    "es6": "true",
+    "mocha": "true",
+    "node": "true"
+  },
+  "rules": {
+    "callback-return": "error",
+    "curly": [
+      "error",
+      "all"
+    ],
+    "eqeqeq": "error",
+    "func-names": "off",
+    "indent": [
+      "error",
+      2, {
+        "SwitchCase": 1
+      }
+    ],
+    "no-console": "warn",
+    "no-undef": "warn",
+    "no-unused-vars": "warn",
+    "semi": [
+      "error",
+      "always"
+    ],
+    "spaced-comment": "warn"
+  }
+}
