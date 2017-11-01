@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "terminal-kit": "^1.14.0"
   }
 }
